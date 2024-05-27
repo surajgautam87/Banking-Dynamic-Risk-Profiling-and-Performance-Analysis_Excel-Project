@@ -7,5 +7,8 @@ The objective of this case study is to apply advanced data analysis techniques u
 
 Data Source:
 The loan dataset in this case study offers a rich source of information, encompassing various aspects of the lending process, including borrower demographics, loan characteristics, financial metrics, and repayment histories. It provides an opportunity to delve deep into the patterns and trends that govern consumer lending, offering insights into risk management, borrower behavior, and financial performance.
+
+Leverage Excel's data visualization and interactive tools to create an insightful and dynamic dashboard. This dashboard provides real-time insights into the performance and risk profile of the loan portfolio. The goal is to develop a tool that enable stakeholders to quickly assess key metrics, identify trends, and make informed decisions regarding loan management strategies.
+
 ![Trend analysis dashboard](https://github.com/surajgautam87/Banking-Dynamic-Risk-Profiling-and-Performance-Analysis_Excel-Project/assets/160303501/fab8db10-90c0-4ccc-8f90-298d8f5516cb)
 ![Risk Analysis Dashboard](https://github.com/surajgautam87/Banking-Dynamic-Risk-Profiling-and-Performance-Analysis_Excel-Project/assets/160303501/c5511cf8-81d5-451a-a1e4-f08f77048358)
